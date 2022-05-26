@@ -1,3 +1,14 @@
+---
+layout: page
+title: Transport Layer
+tags: [Network]
+
+share-title : 컴퓨터 네트워크 
+share-description : 네트워크 5계층 중 Transport Layer
+---
+
+
+
 - 단편화(fragmentation): 링크가 허용하는 최대 데이터 크기 이하로 패킷을 작은 조각으로 나누는 과정 (참조: https://en.wikipedia.org/wiki/IP_fragmentation)
 
 - 다중화(multiplexing): 다수의 응용에서 동시에 발생된 독립적인 세그먼트들을 하나의 전송로를 통해 전달하는 과정 (http://www.tcpipguide.com/free/t_TCPIPProcessesMultiplexingandClientServerApplicati-2.htm)
