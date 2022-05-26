@@ -1,3 +1,13 @@
+---
+layout: page
+title: Application Layer
+tags: [Network]
+
+share-title : 컴퓨터 네트워크 
+share-description : 네트워크 5계층 중 Application Layer
+---
+
+
 
 - 서버 클라이언트 모델(server/client model): 하나 또는 다수의 중앙 서버에 여러 사용자가 접속하여 서비스와 정보를 제공 받는 모델
 
