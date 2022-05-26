@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Level DB
-tags: [Level DB] [Data base] 
+tags: [Level DB，Data base] 
 
 share-title : Level DB 이론적인 측면 
 
