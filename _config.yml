@@ -17,8 +17,8 @@ navbar-links:
   About Me: "aboutme"
   Network:
       - Basic: "https://erosbryant.github.io/2022-05-23-네트워크기본"
-      - application layer: "https://erosbryant.github.io/2022-05-24-app-layer"
-      - transport layer : "https://erosbryant.github.io/2022-05-26-tran"
+      - application layer: "https://erosbryant.github.io/2022-05-24-application-layer"
+      - transport layer : "https://erosbryant.github.io/2022-05-26-transport-layer"
   DataBase:
 
 
