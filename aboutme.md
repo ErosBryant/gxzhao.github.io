@@ -11,9 +11,10 @@ title: About me
 - ⓐ **Eros Bryant**
 
 #### I have the following qualities:
+- 日本の文化とアニメがだいすきです
 - My interest is to learn the languages of various countries.
 - 我是个程序员
-- 日本の文化とアニメがだいすきです
+
   
         ⠀⢰⠒⠒⠒⢲⠆⠀⠀⢀⠤⢤⡀ ⡴⠀⠀⢀⣀⣀⣰⣀⣀⡀⠀⠀⠀⠀⠀
         ⠀ ⣎⣀⣀⣀⡜⠀⠀⢰⠀  ⢠⢰⠓⠂⠀⢀⠔⠒⠒⠲⡄⠀⠀⠀⠀⠀⠀
