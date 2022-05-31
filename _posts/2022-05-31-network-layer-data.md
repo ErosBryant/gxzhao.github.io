@@ -1,6 +1,6 @@
 ---
 layout: page
-title: network Layer- data plane
+title: Network Layer- data plane
 tags: [Network]
 
 share-title : 컴퓨터 네트워크 
