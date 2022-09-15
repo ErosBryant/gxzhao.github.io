@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Machine Learning
-tags: [ Machine Learning,AI] 
+tags: [Machine Learning,AI] 
 
 share-title :  Machine Learning 소개
 
@@ -19,7 +19,7 @@ share-title :  Machine Learning 소개
 
             주가에 영향을 미치는 요인들을  :   설명 변수
             
-                                   주가  :    반응 변수
+                                   주가   :    반응 변수
 
             learning해서 나오는 값(규칙)  :    예측 모델 
 
