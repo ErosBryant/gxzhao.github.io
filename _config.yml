@@ -30,9 +30,10 @@ navbar-links:
       - LSM-Tree 이론: "https://erosbryant.github.io/2022-05-26-level-Lsm-Tree"
   Machine learning:
       - Intro : "https://erosbryant.github.io/2022-09-15-machine_Learning_Intro"  
+      - Regression : "https://erosbryant.github.io/2022-09-19-regression"
+
   Algorithm :
-      - Sort Algorithm :
-            - Insertion-Sort : "https://erosbryant.github.io/2022-09-16-insert-algorithm"
+      - Insertion-Sort : "https://erosbryant.github.io/2022-09-16-insert-algorithm"
   
 
 
