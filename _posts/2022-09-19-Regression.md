@@ -7,6 +7,7 @@ share-title : Regression Machine Learnin
 
 ---
 
+
 ##  인공 지능 정의
 > 과거의 경험을 미래의 결정(예측)에 활용하는 소프트웨어를 디자인하고 연구하는 분야
 
